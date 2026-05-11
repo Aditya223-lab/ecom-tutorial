@@ -111,7 +111,7 @@ export default function CheckoutPage() {
                         <Button variant="outline" onClick={clearCart}>
                             Cancel Order
                         </Button>
-                        
+                        //yo ma ho
                     </div>
                 </CardContent>
             </Card>
