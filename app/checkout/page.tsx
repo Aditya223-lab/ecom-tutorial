@@ -107,11 +107,11 @@ export default function CheckoutPage() {
                     </div>
                     
                     {/* Checkout Actions */}
-                    <div className="mt-6 flex gap-4 justify-end">
+                    <div className="mt-6 flex gap-4 ">
                         <Button variant="outline" onClick={clearCart}>
                             Cancel Order
                         </Button>
-                        //yo ma ho
+                        //yo ma
                     </div>
                 </CardContent>
             </Card>
